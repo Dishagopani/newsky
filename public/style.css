@@ -1,0 +1,75 @@
+body {
+    font-family: "Sofia", sans-serif;
+  }
+  nav{
+      background-color: black;
+  }
+  ul li {
+      padding:5px 20px;
+  }
+li a{
+    font-size:25px;
+    color: thistle;
+    font-weight: 400;
+}
+h2{
+    padding-top: 20%;
+    text-align: center;
+
+
+}
+h5{
+    font-weight: bold;
+    font-size: 24px;
+}
+p{
+    font-size: 18px;
+}
+.card{
+    background-color:rgb(156, 153, 141);
+}
+.card2{
+    background-color: gainsboro;
+}
+
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px
+}
+
+.card {
+    margin-left: 10px;
+    margin-right: 10px
+}
+
+
+  
+  
+.box{
+    background-color:cadetblue;
+    box-shadow:1px 4px 6px 2px rgb(27, 22, 22);
+}
+h3{
+     color: cornsilk;
+}
+p{
+    font-size: 21px;
+    font-weight: 400;
+}
+
+.first{
+    position: absolute;
+    background-color:black;
+    border:1px solid black;
+}
+.second{
+    position:relative;
+    background-color: darkgray;
+    border:1px solid black;
+    box-shadow:1px 4px 6px 2px rgb(27, 22, 22);
+
+}
+.main{
+    background-color:oldlace;
+    
+}
